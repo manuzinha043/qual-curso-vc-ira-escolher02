@@ -21,7 +21,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora da escola decidiu fazer uma sequência de aulas para sabermos qual o caminho há escolher. No fim de uma aula ela pede que você escreva um trabalho sobre esse tema. Qual atitude você toma?",
+        enunciado: "Iniciar uma jornada pode ser aterrorizante, e foi pensando nisso que uma professora da escola decidiu fazer uma sequência de aulas para sabermos qual o caminho há escolher. No fim de uma aula ela pede que você escreva um trabalho sobre esse tema. Qual atitude você toma?",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
@@ -37,7 +37,7 @@ export const perguntas = [
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
                 ],
                 proxima: 4,
             },
